@@ -7,7 +7,8 @@ and the third bit is the color you associate with the memory!
 
 ![Table for Assignment 1](https://github.com/user-attachments/assets/1fcda032-6b31-410f-95d0-d103cbc4311c)
 
-Example: Monday morning, I paid a bill, and wore a lavender scented perfume.
+Example: On Monday morning, I paid a bill, and wore a lavender scented perfume.
+
 0000 0101 0101
 
 ![examples](https://github.com/user-attachments/assets/6fc53734-c52f-4e06-a7a6-6ecb46dde0ff)
