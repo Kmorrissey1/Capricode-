@@ -7,4 +7,4 @@
 0110 1000 Grocery 1111 gray
 0111 0110 dnd 1110 purple"
 
-"I think its really cool I was unsure to a degree how to craft and order the numbers at first but beyond that it works pretty well!"
+"I thought the system was very cute and useful, it had a good amount of variety when it came to emojis and with enough use could be used to keep track of consistent tasks throughout the week. I liked the colors, my only concern was the order of the key could be set to better reflect the order of operations, otherwise it was really fun."
